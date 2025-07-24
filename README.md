@@ -12,13 +12,13 @@ So, for instance, when looking at the window called:
 
 The script would output:
 
-> "Your Decision" by Alice in Chains
+`"Your Decision" by Alice in Chains`
 
 to the file current_song.txt located in the same directory as the script.
 
 A shortcut can be created, using in the Target option (Right-click shortcut, Properties):
 
-> C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -File "YOUR_PATH_TO 'song_detector.ps1'"
+`C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -File "YOUR_PATH_TO 'song_detector.ps1'"`
 
 
 Some notes:

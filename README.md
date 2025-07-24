@@ -18,7 +18,7 @@ to the file current_song.txt located in the same directory as the script.
 
 A shortcut can be created, using in the Target option (Right-click shortcut, Properties):
 
-`C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -File "YOUR_PATH_TO 'song_detector.ps1'"`
+`C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -File "YOUR_PATH_TO_song_detector.ps1"`
 
 
 Some notes:

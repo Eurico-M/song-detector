@@ -8,7 +8,7 @@ We can then use that simple .txt file as a source for OBS to display the current
 
 So, for instance, when looking at the window called:
 
-> YOUR DECISION CHORDS (ver 2) by Alice In Chains @ Ultimate-Guitar.Com
+`YOUR DECISION CHORDS (ver 2) by Alice In Chains @ Ultimate-Guitar.Com`
 
 The script would output:
 
